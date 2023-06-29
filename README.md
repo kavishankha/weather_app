@@ -4,7 +4,7 @@
 
 The Weather Application is a web-based application that provides real-time weather information for locations around the world. It is built using Node.js, Express.js, and utilizes the Bodiphaser module for rendering weather icons. The application leverages the OpenWeather API to fetch current weather data.
 
-![Weather Application Screenshot](/path/to/screenshot.png)
+![Weather Application Screenshot](screenshot.png)
 
 ## Features
 
