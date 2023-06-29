@@ -18,7 +18,7 @@ The Weather Application is a web-based application that provides real-time weath
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+gh repo clone kavishankha/weather_app
 ```
 
 2. Install the required dependencies:
