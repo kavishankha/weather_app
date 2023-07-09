@@ -48,9 +48,6 @@ npm start
 
 Contributions are welcome! If you have any ideas for improvements or encounter any issues, please open an issue or submit a pull request. Make sure to follow the project's code of conduct.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
